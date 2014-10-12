@@ -1,4 +1,4 @@
-Cocos2d-JS-v3-Tutorial-59---Creating-A-New-Scene
+Cocos2d-JS v3 Tutorial 59 - Creating A New Scene
 ================================================
 
-Code for the following video tutorial 
+Code for the following video tutorial http://youtu.be/vDaqaV4QbJs
